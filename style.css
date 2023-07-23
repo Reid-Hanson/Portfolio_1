@@ -68,3 +68,10 @@ background-color: #F2F3F5;
 .copyright {
   font-size: 10px;
 }
+
+@media (min-width: 300px) and (max-width:499px) {
+  .responsive {
+    margin-top: 1rem;
+    
+  }
+}
