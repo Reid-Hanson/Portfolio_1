@@ -16,7 +16,7 @@ img {
     color: rgba(0,0,0,.9) !important;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
 
   .dropdown-menu[data-bs-popper] {
     top: 100%;
@@ -25,11 +25,11 @@ img {
     margin-top: 0.125rem;
   }
   }
-@media(min-width:501px) and (max-width: 768px) {
+@media(min-width:601px) and (max-width: 768px) {
 
   .dropdown-menu[data-bs-popper] {
     top: 100%;
-    left: 19em !important;
+    left: 23em !important;
     margin-top: 0.125rem;
   }
   }
@@ -37,7 +37,7 @@ img {
   @media (min-width: 768px) {
 .dropdown-menu[data-bs-popper] {
   top: 100%;
-  left: 10em !important;
+  left: 12em !important;
   margin-top: 0.125rem;
 }
   }
