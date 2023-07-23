@@ -54,3 +54,10 @@ background-color: #F2F3F5;
 .border {
   border-color:black !important;
 }
+
+.aspectRatioBox {
+  padding-top: calc(2 / 3 * 100%);
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+}
