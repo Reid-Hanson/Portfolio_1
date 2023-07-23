@@ -2,7 +2,7 @@ body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-img {
+.nav-img {
   width: 30px;
   height:30px;
 }
@@ -41,3 +41,10 @@ img {
   margin-top: 0.125rem;
 }
   }
+
+
+.img-responsive {
+  width: 100%;
+
+  border-radius: 15px;
+}
