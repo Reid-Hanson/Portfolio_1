@@ -42,9 +42,15 @@ body {
 }
   }
 
-
 .img-responsive {
   width: 100%;
 
   border-radius: 15px;
+}
+
+.background-color {
+background-color: #F2F3F5;
+}
+.border {
+  border-color:black !important;
 }
